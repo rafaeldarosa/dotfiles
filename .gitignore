@@ -1,0 +1,12 @@
+*/
+*.list
+*.json
+*.dirs
+*.locale
+.gsd-keyboard.settings-ported
+
+!alacritty
+
+!nvim
+!nvim/*
+!tmux
